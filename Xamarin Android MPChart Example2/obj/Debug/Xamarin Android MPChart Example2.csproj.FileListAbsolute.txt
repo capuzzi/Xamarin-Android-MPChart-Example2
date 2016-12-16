@@ -1,0 +1,41 @@
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin Android MPChart Example2.dll
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin Android MPChart Example2.pdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin_Android_MPChart_Example2.Xamarin_Android_MPChart_Example2.apk
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin_Android_MPChart_Example2.Xamarin_Android_MPChart_Example2-Signed.apk
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\Xamarin Android MPChart Example2.csprojResolveAssemblyReference.cache
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\Xamarin Android MPChart Example2.dll
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\Xamarin Android MPChart Example2.pdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\bin\Xamarin_Android_MPChart_Example2.Xamarin_Android_MPChart_Example2.apk
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\res\layout\main.xml
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\res\values\strings.xml
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\res\drawable\icon.png
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\R.cs.flag
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\uploadflags.txt
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin Android MPChart Example2.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Java.Interop.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Mono.Android.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\mscorlib.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.Core.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.Net.Http.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.Xml.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\android\assets\Xamarin Android MPChart Example2.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\MPAndroidChart.dll
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\MPAndroidChart.pdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\obj\Debug\Xamarin Android MPChart Example2.dll.mdb
+c:\users\capuzzi\documents\visual studio 2015\Projects\Xamarin Android MPChart Example2\Xamarin Android MPChart Example2\bin\Debug\Xamarin Android MPChart Example2.dll.mdb
